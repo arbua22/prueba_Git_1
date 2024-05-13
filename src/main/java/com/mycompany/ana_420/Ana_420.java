@@ -17,8 +17,8 @@ public class Ana_420 {
 
     public static void fumar() {
 
-        System.out.println("Ana: *Smoking* pasae el mechero arbu");
-
+        System.out.println("Ana: Ehh buenos diass");
+        System.out.println("Hola buenas tardes");
     }
 
 }
